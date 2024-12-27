@@ -1,4 +1,5 @@
 # weather
 first reposertiory
 <br>
-author - nitin 
+author - nitin kumar
+
